@@ -66,8 +66,12 @@ I am known for my **ability to transfer knowledge effectively**, helping student
 ## 📚 Education
 
 🎓 **Faculty of Organizational Sciences, University of Belgrade**  
-B\.Sc\. in Information Systems & Technologies
-`2021 - Present`
+M\.Sc\. in Information Systems
+`2025 - Present`
+
+📖 **Faculty of Organizational Sciences, University of Belgrade**  
+B\.Sc\. in Organizational Sciences
+`2021 - 2025`
 
 ✏️ **Technical School, Jagodina**  
 Information Technologies
